@@ -1,4 +1,4 @@
-# Deep Learning and Enzyme_Papers
+# Deep Learning and Enzyme Papers
 This repository is allocated to scientific papers and resources for the application of deep learning in enzyme biochemistry. For the ease of usage, papers are classified based on their applications and format as follow:
 
 Format: Title, *Journal*, **Published Year**, Link
