@@ -5,7 +5,7 @@ Format: Title, *Journal*, **Published Year**, Link
 
 ## EC number prediction
 
-1. Deep learning enables high-quality and highthroughput prediction of enzyme commission numbers, *Proc. Natl. Acad. Sci.*, **2019**, [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1821905116)
+1. Deep learning enables high-quality and high-throughput prediction of enzyme commission numbers, *Proc. Natl. Acad. Sci.*, **2019**, [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1821905116)
 
 ## Review
 
