@@ -7,6 +7,7 @@ Format: Title, *Journal*, **Published Year**, Link
 
 1. Deep learning enables high-quality and highthroughput prediction of enzyme commission numbers, *Proc. Natl. Acad. Sci.*, **2019**, [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1821905116)
 2. mlDEEPre: multi-functional enzyme function prediction with hierarchical multi-label deep learning, *Front. Genet.*, **2019**, [Link](https://www.frontiersin.org/articles/10.3389/fgene.2018.00714/full)
+3. High precision protein functional site detection using 3D convolutional neural networks, *Bioinformatics*, **2019**, [link](https://academic.oup.com/bioinformatics/article-abstract/35/9/1503/5104336)
 
 ## Review
 
