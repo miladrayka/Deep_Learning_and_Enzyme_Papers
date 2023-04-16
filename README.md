@@ -10,7 +10,7 @@ Format: Title, *Journal*, **Published Year**, Link
 
 ## Fuctional site prediction
 
-3. High precision protein functional site detection using 3D convolutional neural networks, *Bioinformatics*, **2019**, [link](https://academic.oup.com/bioinformatics/article-abstract/35/9/1503/5104336)
+1. High precision protein functional site detection using 3D convolutional neural networks, *Bioinformatics*, **2019**, [link](https://academic.oup.com/bioinformatics/article-abstract/35/9/1503/5104336)
 
 ## Review
 
