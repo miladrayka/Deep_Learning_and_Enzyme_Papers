@@ -12,6 +12,11 @@ Format: Title, *Journal*, **Published Year**, Link
 
 1. High precision protein functional site detection using 3D convolutional neural networks, *Bioinformatics*, **2019**, [link](https://academic.oup.com/bioinformatics/article-abstract/35/9/1503/5104336)
 
+## Reaction condition optimization
+
+1. A machine learning approach for efficient selection of enzyme concentrations and its application for flux optimization, *Catalysts
+*, **2020**, [Link](https://www.mdpi.com/2073-4344/10/3/291)
+
 ## Review
 
 1. Machine learning for enzyme engineering, selection and design, *Protein Eng. Des. Sel*, **2021**, [Link](https://academic.oup.com/peds/article-abstract/doi/10.1093/protein/gzab019/6326465)
