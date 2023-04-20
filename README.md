@@ -14,8 +14,7 @@ Format: Title, *Journal*, **Published Year**, Link
 
 ## Reaction condition optimization
 
-1. A machine learning approach for efficient selection of enzyme concentrations and its application for flux optimization, *Catalysts
-*, **2020**, [Link](https://www.mdpi.com/2073-4344/10/3/291)
+1. A machine learning approach for efficient selection of enzyme concentrations and its application for flux optimization, *Catalysts*, **2020**, [Link](https://www.mdpi.com/2073-4344/10/3/291)
 
 ## Review
 
