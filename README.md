@@ -18,6 +18,10 @@ Format: Title, *Journal*, **Published Year**, Link
 1. A machine learning approach for efficient selection of enzyme concentrations and its application for flux optimization, *Catalysts*, **2020**, [Link](https://www.mdpi.com/2073-4344/10/3/291)
 2. Flux prediction using artificial neural network (ANN) for the upper part of glycolysis, *Plos One*, **2019**, [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216178)
 
+## Database
+
+1. TopEnzyme: a framework and database for structural coverage of the functional enzyme space, *Bioinformatics*, **2023**, [Link](https://academic.oup.com/bioinformatics/article/39/3/btad116/7072462)
+
 ## Review
 
 1. Machine learning for enzyme engineering, selection and design, *Protein Eng. Des. Sel*, **2021**, [Link](https://academic.oup.com/peds/article-abstract/doi/10.1093/protein/gzab019/6326465)
