@@ -21,6 +21,7 @@ Format: Title, *Journal*, **Published Year**, Link
 ## Database
 
 1. TopEnzyme: a framework and database for structural coverage of the functional enzyme space, *Bioinformatics*, **2023**, [Link](https://academic.oup.com/bioinformatics/article/39/3/btad116/7072462)
+2. EnzyMine: a comprehensive database for enzyme function annotation with enzymatic reaction chemical feature, *Database*, **2020**, [Link](https://academic.oup.com/database/advance-article/doi/10.1093/database/baaa065/5909106)
 
 ## Review
 
