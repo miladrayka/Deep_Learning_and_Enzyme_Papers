@@ -23,6 +23,10 @@ Format: Title, *Journal*, **Published Year**, Link
 1. TopEnzyme: a framework and database for structural coverage of the functional enzyme space, *Bioinformatics*, **2023**, [Link](https://academic.oup.com/bioinformatics/article/39/3/btad116/7072462)
 2. EnzyMine: a comprehensive database for enzyme function annotation with enzymatic reaction chemical feature, *Database*, **2020**, [Link](https://academic.oup.com/database/advance-article/doi/10.1093/database/baaa065/5909106)
 
+# Enzyme Activity Prediction
+
+1. Protease activity analysis: A toolkit for analyzing enzyme activity data, *ACS Omega*, **2022**, [Link](https://pubs.acs.org/doi/full/10.1021/acsomega.2c01559)
+
 ## Review
 
 1. Machine learning for enzyme engineering, selection and design, *Protein Eng. Des. Sel*, **2021**, [Link](https://academic.oup.com/peds/article-abstract/doi/10.1093/protein/gzab019/6326465)
