@@ -8,6 +8,8 @@ Format: Title, *Journal*, **Published Year**, Link
 1. Deep learning enables high-quality and highthroughput prediction of enzyme commission numbers, *Proc. Natl. Acad. Sci.*, **2019**, [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1821905116)
 2. mlDEEPre: multi-functional enzyme function prediction with hierarchical multi-label deep learning, *Front. Genet.*, **2019**, [Link](https://www.frontiersin.org/articles/10.3389/fgene.2018.00714/full)
 3. EnzyNet: enzyme classification using 3D convolutional neural networks on spatial representation, *PeerJ*, **2018**, [Link](https://peerj.com/articles/4750/)
+4. ECRECer: Enzyme Commission Number Recommendation and Benchmarking based on Multiagent Dual-core Learning, *Arxiv*, **2022**, [Link](https://arxiv.org/abs/2202.03632)
+5. Enzyme promiscuity prediction using hierarchy-informed multi-label classification, *Bioinformatics*, **2021**, [Link](https://academic.oup.com/bioinformatics/article/37/14/2017/6124277)
 
 ## Fuctional site prediction
 
