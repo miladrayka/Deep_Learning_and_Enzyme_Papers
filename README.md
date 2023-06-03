@@ -8,6 +8,8 @@ Format: Title, *Journal*, **Published Year**, Link
 1. Deep learning enables high-quality and highthroughput prediction of enzyme commission numbers, *Proc. Natl. Acad. Sci.*, **2019**, [Link](https://www.pnas.org/doi/abs/10.1073/pnas.1821905116)
 2. mlDEEPre: multi-functional enzyme function prediction with hierarchical multi-label deep learning, *Front. Genet.*, **2019**, [Link](https://www.frontiersin.org/articles/10.3389/fgene.2018.00714/full)
 3. EnzyNet: enzyme classification using 3D convolutional neural networks on spatial representation, *PeerJ*, **2018**, [Link](https://peerj.com/articles/4750/)
+4. ABLE: Attention Based Learning for Enzyme Classification, * Comput. Biol. Chem*, **2021**, [Link](https://www.sciencedirect.com/science/article/abs/pii/S1476927121001250)
+
 
 ## Fuctional site prediction
 
@@ -21,3 +23,6 @@ Format: Title, *Journal*, **Published Year**, Link
 ## Review
 
 1. Machine learning for enzyme engineering, selection and design, *Protein Eng. Des. Sel*, **2021**, [Link](https://academic.oup.com/peds/article-abstract/doi/10.1093/protein/gzab019/6326465)
+2. A Survey for Predicting Enzyme Family Classes Using Machine Learning Methods, *Curr. Drug Targets*, **2019**, [Link](https://www.ingentaconnect.com/content/ben/cdt/2019/00000020/00000005/art00007)
+
+
