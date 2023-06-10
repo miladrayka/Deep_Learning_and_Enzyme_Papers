@@ -9,7 +9,8 @@ Format: Title, *Journal*, **Published Year**, Link
 2. mlDEEPre: multi-functional enzyme function prediction with hierarchical multi-label deep learning, *Front. Genet.*, **2019**, [Link](https://www.frontiersin.org/articles/10.3389/fgene.2018.00714/full)
 3. EnzyNet: enzyme classification using 3D convolutional neural networks on spatial representation, *PeerJ*, **2018**, [Link](https://peerj.com/articles/4750/)
 4. ABLE: Attention Based Learning for Enzyme Classification, * Comput. Biol. Chem*, **2021**, [Link](https://www.sciencedirect.com/science/article/abs/pii/S1476927121001250)
-
+5. DEEPre: sequence-based enzyme EC number prediction by deep learning, *Bioinformatics*, **2018**, [Link](https://academic.oup.com/bioinformatics/article/34/5/760/4562505)
+6. Enzyme function prediction using contrastive learning, *Science*, **2023**, [Link}(https://www.science.org/doi/abs/10.1126/science.adf2465)
 
 ## Fuctional site prediction
 
@@ -24,5 +25,5 @@ Format: Title, *Journal*, **Published Year**, Link
 
 1. Machine learning for enzyme engineering, selection and design, *Protein Eng. Des. Sel*, **2021**, [Link](https://academic.oup.com/peds/article-abstract/doi/10.1093/protein/gzab019/6326465)
 2. A Survey for Predicting Enzyme Family Classes Using Machine Learning Methods, *Curr. Drug Targets*, **2019**, [Link](https://www.ingentaconnect.com/content/ben/cdt/2019/00000020/00000005/art00007)
-
+3. The Classification of Enzymes by Deep Learning, *IEEE Access*, **2018**, [Link](https://ieeexplore.ieee.org/abstract/document/9086514)
 
