@@ -10,7 +10,7 @@ Format: Title, *Journal*, **Published Year**, Link
 3. EnzyNet: enzyme classification using 3D convolutional neural networks on spatial representation, *PeerJ*, **2018**, [Link](https://peerj.com/articles/4750/)
 4. ABLE: Attention Based Learning for Enzyme Classification, * Comput. Biol. Chem*, **2021**, [Link](https://www.sciencedirect.com/science/article/abs/pii/S1476927121001250)
 5. DEEPre: sequence-based enzyme EC number prediction by deep learning, *Bioinformatics*, **2018**, [Link](https://academic.oup.com/bioinformatics/article/34/5/760/4562505)
-6. Enzyme function prediction using contrastive learning, *Science*, **2023**, [Link}(https://www.science.org/doi/abs/10.1126/science.adf2465)
+6. Enzyme function prediction using contrastive learning, *Science*, **2023**, [Link](https://www.science.org/doi/abs/10.1126/science.adf2465)
 
 ## Fuctional site prediction
 
