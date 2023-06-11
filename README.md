@@ -11,6 +11,8 @@ Format: Title, *Journal*, **Published Year**, Link
 4. ABLE: Attention Based Learning for Enzyme Classification, * Comput. Biol. Chem*, **2021**, [Link](https://www.sciencedirect.com/science/article/abs/pii/S1476927121001250)
 5. DEEPre: sequence-based enzyme EC number prediction by deep learning, *Bioinformatics*, **2018**, [Link](https://academic.oup.com/bioinformatics/article/34/5/760/4562505)
 6. Enzyme function prediction using contrastive learning, *Science*, **2023**, [Link](https://www.science.org/doi/abs/10.1126/science.adf2465)
+7. Effects of sequence features on machine-learned enzyme classification fidelity, *Biochem. Eng. J.*, **2022**, [Link](https://www.sciencedirect.com/science/article/abs/pii/S1369703X22002819)
+8. Recurrent deep neural networks for enzyme functional annotation, *Conference*, **2022**, [Link](https://link.springer.com/chapter/10.1007/978-3-030-86258-9_7)
 
 ## Fuctional site prediction
 
