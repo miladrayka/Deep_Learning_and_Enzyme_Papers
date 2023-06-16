@@ -13,6 +13,8 @@ Format: Title, *Journal*, **Published Year**, Link
 6. Enzyme function prediction using contrastive learning, *Science*, **2023**, [Link](https://www.science.org/doi/abs/10.1126/science.adf2465)
 7. Effects of sequence features on machine-learned enzyme classification fidelity, *Biochem. Eng. J.*, **2022**, [Link](https://www.sciencedirect.com/science/article/abs/pii/S1369703X22002819)
 8. Recurrent deep neural networks for enzyme functional annotation, *Conference*, **2022**, [Link](https://link.springer.com/chapter/10.1007/978-3-030-86258-9_7)
+9. DeEPn: a deep neural network based tool for enzyme functional annotation, *J. Biomol. Struct. Dyn. *. **2021**, [Link](https://www.tandfonline.com/doi/abs/10.1080/07391102.2020.1754292)
+10. Prediction of Enzyme Function Based on Three Parallel Deep CNN and Amino Acid Mutation, *Int. J. Mol. Sci.*, **2019**, [Link](https://www.mdpi.com/477766)
 
 ## Fuctional site prediction
 
