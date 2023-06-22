@@ -15,6 +15,8 @@ Format: Title, *Journal*, **Published Year**, Link
 8. Recurrent deep neural networks for enzyme functional annotation, *Conference*, **2022**, [Link](https://link.springer.com/chapter/10.1007/978-3-030-86258-9_7)
 9. DeEPn: a deep neural network based tool for enzyme functional annotation, *J. Biomol. Struct. Dyn. *. **2021**, [Link](https://www.tandfonline.com/doi/abs/10.1080/07391102.2020.1754292)
 10. Prediction of Enzyme Function Based on Three Parallel Deep CNN and Amino Acid Mutation, *Int. J. Mol. Sci.*, **2019**, [Link](https://www.mdpi.com/477766)
+11. Bio2Rxn: sequence-based enzymatic reaction predictions by a consensus strategy, *Bioinformatics*, **2020**, [Link](https://academic.oup.com/bioinformatics/article-abstract/36/11/3600/5766113)
+12. HECNet: a hierarchical approach to enzyme function classification using a Siamese Triplet Network, *Bioinformatics*, **2020**, [Link](https://academic.oup.com/bioinformatics/article-abstract/36/17/4583/5843785)
 
 ## Fuctional site prediction
 
