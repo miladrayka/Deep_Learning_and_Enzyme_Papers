@@ -33,6 +33,6 @@ Format: Title, *Journal*, **Published Year**, Link
 2. A Survey for Predicting Enzyme Family Classes Using Machine Learning Methods, *Curr. Drug Targets*, **2019**, [Link](https://www.ingentaconnect.com/content/ben/cdt/2019/00000020/00000005/art00007)
 3. The Classification of Enzymes by Deep Learning, *IEEE Access*, **2018**, [Link](https://ieeexplore.ieee.org/abstract/document/9086514)
 4. A Theoretical Evaluation of Machine Learning to Predict Enzyme Family, *Conference*, **2022**, [Link](https://ieeexplore.ieee.org/abstract/document/9752250/)
-5. Machine learning techniques for protein function prediction, * Proteins Struct. Funct. Bioinf*, **2020**, [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.25832)
+5. Machine learning techniques for protein function prediction, *Proteins Struct. Funct. Bioinf*, **2020**, [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.25832)
 
 
