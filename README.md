@@ -17,6 +17,8 @@ Format: Title, *Journal*, **Published Year**, Link
 10. Prediction of Enzyme Function Based on Three Parallel Deep CNN and Amino Acid Mutation, *Int. J. Mol. Sci.*, **2019**, [Link](https://www.mdpi.com/477766)
 11. Bio2Rxn: sequence-based enzymatic reaction predictions by a consensus strategy, *Bioinformatics*, **2020**, [Link](https://academic.oup.com/bioinformatics/article-abstract/36/11/3600/5766113)
 12. HECNet: a hierarchical approach to enzyme function classification using a Siamese Triplet Network, *Bioinformatics*, **2020**, [Link](https://academic.oup.com/bioinformatics/article-abstract/36/17/4583/5843785)
+13. UDSMProt: universal deep sequence models for protein classification, *Bioinformatics*, **2020**, [Link](https://academic.oup.com/bioinformatics/article-abstract/36/8/2401/5698270)
+14. DeepEnz: prediction of enzyme classification by deep learning,*Indones. J. Electr.*, **2021**, [Link](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/24886)
 
 ## Fuctional site prediction
 
