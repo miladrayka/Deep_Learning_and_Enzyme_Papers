@@ -20,6 +20,9 @@ Format: Title, *Journal*, **Published Year**, Link
 13. UDSMProt: universal deep sequence models for protein classification, *Bioinformatics*, **2020**, [Link](https://academic.oup.com/bioinformatics/article-abstract/36/8/2401/5698270)
 14. DeepEnz: prediction of enzyme classification by deep learning, *Indones. J. Electr.*, **2021**, [Link](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/24886)
 15. Comprehensive Machine Learning Prediction of Extensive Enzymatic Reactions, *J. Phys. Chem. B*, **2022**, [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.2c03287)
+16. Prediction of protein function using a deep convolutional neural network ensemble, *PeerJ Comput. Sci.*, **2017**, [Link](https://peerj.com/articles/cs-124/)
+17. A hierarchical deep learning based approach for multi-functional enzyme classification, *Protein Sci.*, **2021**, [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4146)
+
 
 ## Fuctional site prediction
 
