@@ -22,7 +22,8 @@ Format: Title, *Journal*, **Published Year**, Link
 15. Comprehensive Machine Learning Prediction of Extensive Enzymatic Reactions, *J. Phys. Chem. B*, **2022**, [Link](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.2c03287)
 16. Prediction of protein function using a deep convolutional neural network ensemble, *PeerJ Comput. Sci.*, **2017**, [Link](https://peerj.com/articles/cs-124/)
 17. A hierarchical deep learning based approach for multi-functional enzyme classification, *Protein Sci.*, **2021**, [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4146)
-
+18. ECRECer: Enzyme Commission Number Recommendation and Benchmarking based on Multiagent Dual-core Learning, *Arxiv*, **2022**, [Link](https://arxiv.org/abs/2202.03632)
+19. ProteInfer, deep neural networks for protein functional inference, *eLife*, **2023**, [Link](https://elifesciences.org/articles/80942)
 
 ## Fuctional site prediction
 
